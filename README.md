@@ -10,13 +10,13 @@ La estructura de organización de los repositorios se maneja de la siguiente man
 
 Elementos de archivo principal README.md de la platica técnica
 
-Titulo de la Platica tecnica
-Clasificación general de la platica
-Clasificación especifica de la platica
-Conocimientos previos del instructor recomendados
-Tipo de audiencia objetivo (Estudiantes, Developers, Igenieros, Clientes, etc)
-Requisitos previos técnicos recomendados de la audiencia
-Tiempo estimado para que el exponente realice la platica
-Tiempo estinado para que los asistentes realizicen la practica
+- Titulo de la Platica tecnica
+- Clasificación general de la platica
+- Clasificación especifica de la platica
+- Conocimientos previos del instructor recomendados
+- Tipo de audiencia objetivo (Estudiantes, Developers, Igenieros, Clientes, etc)
+- Requisitos previos técnicos recomendados de la audiencia
+- Tiempo estimado para que el exponente realice la platica
+- Tiempo estimado para que los asistentes realizicen la practica
 
   
